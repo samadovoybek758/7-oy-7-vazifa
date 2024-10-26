@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  background-image: url('./assets/bg.png');
+}
+.footer{
+  background-image: url('./assets/bg-2.png');
+  background-color: black;
+}
